@@ -1,6 +1,6 @@
 ![MasterHead](https://hackernoon.imgix.net/images/ezgif.com-gif-maker%20(44).gif)
 <h1 align="center">Hi 👋, I'm Dhanushi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danu2003-cy&label=Profile%20views&color=0e75b6&style=flat" alt="danu2003-cy" /> </p>
