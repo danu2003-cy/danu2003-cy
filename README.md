@@ -1,4 +1,3 @@
-![MasterHead](https://hackernoon.imgix.net/images/ezgif.com-gif-maker%20(44).gif)
 <h1 align="center">Hi 👋, I'm Dhanushi</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
